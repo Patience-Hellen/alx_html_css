@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Headphones</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="left-side">
+                <img src="images/favicon.ico" alt="favicon logo" height="30">
+                <div class="headphones">Headphones</div>
+            </div>
+            <div class="right-links">
+                <a href="#">what we do</a>
+                <a href="#">our results</a>
+                <a href="#">contact us</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
+        <p>Temporibus aliquid, molestiae iure, nostrum libero ducimus.</p>
+        
+        <div class="button">
+            <button type="button">CALL TO ACTION</button>
+        </div>
+        <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores dolor, facere sunt cum, omnis similique nullaharum saepe<br>
+        error optio in pariatur dolorem laborum recusandae at itaque, mollitia nostrum laboriosam! Lorem ipsum
+        dolor sit<br>
+        amet consectetur adipisicing elit. Beatae esse libero harum quisquam excepturi omnis in expedita reprehenderit,<br>
+        cupiditateali as eos, fuga architecto illum itaque ratione dicta minima dolorem ducimus.</p>
+    </main>
+
+</body>
+</html>
