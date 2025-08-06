@@ -1,0 +1,11 @@
+body {
+    background-image: url("images/headphones_hero_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
